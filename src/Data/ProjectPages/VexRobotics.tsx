@@ -4,10 +4,10 @@ import {
 } from '../ProjectPageConfig'
 
 import VexRobot from '../../assets/VexRobots/Robotics Lab Build in Focus.png'
-import RobotMoving from '../../assets/vexRobots/RobotMoving.mp4'
-import RobotPickingup from '../../assets/vexRobots/RobotPickingUpItem.mp4'
-import RobotArmMovmentTest from '../../assets/vexRobots/RobotArmMovement.mp4'
-import RobotMovingMaze from '../../assets/vexRobots/RobotMovingMaze.mp4'
+import RobotMoving from '../../assets/VexRobots/RobotMoving.mp4'
+import RobotPickingup from '../../assets/VexRobots/RobotPickingUpItem.mp4'
+import RobotArmMovmentTest from '../../assets/VexRobots/RobotArmMovement.mp4'
+import RobotMovingMaze from '../../assets/VexRobots/RobotMovingMaze.mp4'
 
 export const VexRoboticsPage =
   new ProjectPageConfig(
