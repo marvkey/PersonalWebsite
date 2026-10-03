@@ -7,7 +7,7 @@ import VexRobot from '../../assets/VexRobots/Robotics Lab Build in Focus.png'
 import RobotMoving from '../../assets/vexRobots/RobotMoving.mp4'
 import RobotPickingup from '../../assets/vexRobots/RobotPickingUpItem.mp4'
 import RobotArmMovmentTest from '../../assets/vexRobots/RobotArmMovement.mp4'
-import RobotMovingMaze from '../../assets/vexRobots/RobotMovingMaze.mov'
+import RobotMovingMaze from '../../assets/vexRobots/RobotMovingMaze.mp4'
 
 export const VexRoboticsPage =
   new ProjectPageConfig(
